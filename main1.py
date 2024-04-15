@@ -25,7 +25,7 @@ with SB(uc=True, test=True, headless=True) as sb:
             if certifcate_number in [x.get("Certificate Number") for x in _data]:
                 continue
             print("="*10)
-            print(certifcate_number, os.path.pardir)
+            print(certifcate_number, os.path.curdir)
             print("="*10)
             open_the_turnstile_page(sb)
             sb.driver.implicitly_wait(100)
