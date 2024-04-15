@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import os
 from seleniumbase import SB
 from selenium.webdriver.common.by import By
 import time
@@ -14,9 +15,10 @@ def open_the_turnstile_page(sb):
     )
 
 df = pd.read_csv("certificates8.csv")
+print(os.getcwd())
 
 data = df.to_dict('records')
-_data = []
+_data = pd.read_csv("output8.csv").to_dict('records')
 with SB(uc=True, test=True, headless=True) as sb:
     for idx, item in enumerate(data):
         try:
