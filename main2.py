@@ -66,6 +66,7 @@ with SB(uc=True, test=True, headless=True) as sb:
                     d["Certificate"] = div_text_content
                 _data.append(d)    
                 pd.DataFrame(_data).to_csv("output2.csv", index=False)
+                pd.DataFrame(_data).to_csv("~/output2.csv", index=False)
             open_the_turnstile_page(sb)
         except Exception as e:
             print(e)
