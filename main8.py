@@ -15,7 +15,6 @@ def open_the_turnstile_page(sb):
     )
 
 df = pd.read_csv("certificates8.csv")
-print(os.path.pardir)
 
 data = df.to_dict('records')
 _data = []
@@ -26,7 +25,7 @@ with SB(uc=True, test=True, headless=True) as sb:
             if certifcate_number in [x.get("Certificate Number") for x in _data]:
                 continue
             print("="*10)
-            print(certifcate_number)
+            print(certifcate_number, os.path.pardir)
             print("="*10)
             open_the_turnstile_page(sb)
             sb.driver.implicitly_wait(100)
@@ -71,6 +70,12 @@ with SB(uc=True, test=True, headless=True) as sb:
             open_the_turnstile_page(sb)
         except Exception as e:
             print(e)
+            d = {
+                "Certificate Number": item.get("Certificate Number"),
+                "Certificate": ""
+            }
+            _data.append(d)    
+            pd.DataFrame(_data).to_csv("~/eu_certificates_scraper/output8.csv", index=False)
             continue
 
         # Close the browser

@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+import os
 from seleniumbase import SB
 from selenium.webdriver.common.by import By
 import time
@@ -24,7 +25,7 @@ with SB(uc=True, test=True, headless=True) as sb:
             if certifcate_number in [x.get("Certificate Number") for x in _data]:
                 continue
             print("="*10)
-            print(certifcate_number)
+            print(certifcate_number, os.path.pardir)
             print("="*10)
             open_the_turnstile_page(sb)
             sb.driver.implicitly_wait(100)
@@ -69,6 +70,12 @@ with SB(uc=True, test=True, headless=True) as sb:
             open_the_turnstile_page(sb)
         except Exception as e:
             print(e)
+            d = {
+                "Certificate Number": item.get("Certificate Number"),
+                "Certificate": ""
+            }
+            _data.append(d)    
+            pd.DataFrame(_data).to_csv("~/eu_certificates_scraper/output4.csv", index=False)
             continue
 
         # Close the browser
