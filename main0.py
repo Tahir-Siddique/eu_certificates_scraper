@@ -16,7 +16,7 @@ def open_the_turnstile_page(sb):
 df = pd.read_csv("certificates0.csv")
 
 data = df.to_dict('records')
-_data = pd.read_csv("output0.csv").to_dict('records')
+_data = []
 with SB(uc=True, test=True, headless=True) as sb:
     for idx, item in enumerate(data):
         try:
@@ -65,8 +65,7 @@ with SB(uc=True, test=True, headless=True) as sb:
                     div_text_content = div_content.get_text(separator=' ', strip=True).replace('\xa0', ' ').replace('\n', ' ').replace('\t', ' ')
                     d["Certificate"] = div_text_content
                 _data.append(d)    
-                pd.DataFrame(_data).to_csv("output0.csv", index=False)
-                pd.DataFrame(_data).to_csv("~/output0.csv", index=False)
+                pd.DataFrame(_data).to_csv("~/eu_certificates_scraper/output0.csv", index=False)
             open_the_turnstile_page(sb)
         except Exception as e:
             print(e)
