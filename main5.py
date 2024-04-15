@@ -17,7 +17,7 @@ def open_the_turnstile_page(sb):
 df = pd.read_csv("certificates5.csv")
 
 data = df.to_dict('records')
-_data = []
+_data = pd.read_csv("~/eu_certificates_scraper/output5.csv").to_dict("records")
 with SB(uc=True, test=True, headless=True) as sb:
     for idx, item in enumerate(data):
         try:
