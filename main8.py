@@ -15,7 +15,7 @@ def open_the_turnstile_page(sb):
     )
 
 df = pd.read_csv("certificates8.csv")
-print(os.getcwd())
+print(os.path.pardir)
 
 data = df.to_dict('records')
 _data = pd.read_csv("output8.csv").to_dict('records')
