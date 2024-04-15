@@ -752,3 +752,173 @@ DE_RP_01_GMP_2017_1002,1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2
 UK GMP 20656 Insp GMP 33168/460035-0005,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.2  Capsules, soft shell 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
 UK MIA 15760 Insp GMP 15760/7060-0010,2  IMPORTATION OF MEDICINAL PRODUCTS 2.2  Batch certification of imported medicinal products 2.2.1  Sterile products 2.2.1.1  Aseptically prepared 2.2.1.2  Terminally sterilised 2.2.2  Non-sterile products
 UK MIA(IMP) 11149 Insp GMP/IMP 11149/104676-0026,"1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.1  Large volume liquids 1.1.1.3  Semi-solids 1.1.1.4  Small volume liquids 1.1.2  Terminally Sterilised (processing operations for the following dosage forms) 1.1.2.1  Large volume liquids 1.1.2.2  Semi-solids 1.1.2.3  Small volume liquids 1.1.2.5  Other: Ampoules, Creams, Powders, Medicated Dressings, (sent away for sterilisation by irradiation), and Bo(en) 1.1.3  Batch certification 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.5  Liquids for external use 1.2.1.6  Liquids for internal use 1.2.1.11  Semi-solids 1.2.1.13  Tablets 1.4  Other products or manufacturing activity 1.4.2  Sterilisation of active substance/ excipients/ finished product 1.4.2.1  Filtration 1.4.2.2  Dry heat 1.4.2.3  Moist heat 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.2  Capsules, soft shell 1.5.1.5  Liquids for external use 1.5.1.6  Liquids for internal use 1.5.1.8  Other solid dosage forms 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK MIA(IMP) 19437 Insp GMP/IMP 19437/104762-0016,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.6  Other: Sterile Monovalent Virus Harvest Bulk Product(en) 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.2  Immunological products 1.4  Other products or manufacturing activity 1.4.2  Sterilisation of active substance/ excipients/ finished product 1.4.2.1  Filtration 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical 1.6.4  Biological 2  IMPORTATION OF MEDICINAL PRODUCTS 2.1  Quality control testing of imported medicinal products 2.1.1  Microbiological: sterility 2.1.2  Microbiological: non-sterility 2.1.3  Chemical/Physical 2.1.4  Biological 2.2  Batch certification of imported medicinal products 2.2.1  Sterile products 2.2.1.1  Aseptically prepared 2.2.3  Biological medicinal products 2.2.3.8  Other: Vaccine Products(en)
+DE_BW_01_GMP_2017_1015,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.4  Small volume liquids 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.5  Biotechnology products 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+UK GMP 25041 Insp GMP 25041/16593191-0001,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.4  Biological
+UK GMP 31047 Insp GMP/IMP 31047/343945-0012 [H],1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.3  Chemical/Physical 1.6.4  Biological 2  IMPORTATION OF MEDICINAL PRODUCTS 2.1  Quality control testing of imported medicinal products 2.1.3  Chemical/Physical 2.1.4  Biological
+UK GMP 31047 Insp GMP/IMP 31047/343945-0012 [V],1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.3  Chemical/Physical 1.6.4  Biological 2  IMPORTATION OF MEDICINAL PRODUCTS 2.1  Quality control testing of imported medicinal products 2.1.3  Chemical/Physical 2.1.4  Biological
+UK MIA 15760 Insp GMP 17509/4751678-0009,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.3  Batch certification 1.2  Non-sterile products 1.2.2  Batch certification 2  IMPORTATION OF MEDICINAL PRODUCTS 2.2  Batch certification of imported medicinal products 2.2.1  Sterile products 2.2.1.1  Aseptically prepared 2.2.1.2  Terminally sterilised 2.2.2  Non-sterile products
+UK MIA 17509 Insp GMP 17509/4751678-0009,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.3  Batch certification 1.2  Non-sterile products 1.2.2  Batch certification 2  IMPORTATION OF MEDICINAL PRODUCTS 2.2  Batch certification of imported medicinal products 2.2.1  Sterile products 2.2.1.1  Aseptically prepared 2.2.1.2  Terminally sterilised 2.2.2  Non-sterile products
+VMDGMP/M021/2017,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.2  Capsules, soft shell 1.2.1.5  Liquids for external use 1.2.1.8  Other solid dosage forms 1.5  Packaging 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.3  Chemical/Physical"
+UK GMP 13509 Insp GMP 13509/4002-0014,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.17  Other: Powder for Oral Solution(en) 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.2  Capsules, soft shell 1.5.1.13  Tablets 1.5.1.17  Other non-sterile medicinal products: Dosage forms, granules(en) Special Requirements               : 7  Other: Powder for Oral solution(en) 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK GMP 25041 Insp GMP 25041/794754-0004,"1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.6  Other: manufacture and purification of active pharmaceutical ingredient, formulation(en) 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.5  Biotechnology products 1.4  Other products or manufacturing activity 1.4.2  Sterilisation of active substance/ excipients/ finished product 1.4.2.1  Filtration 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical 1.6.4  Biological"
+17MPP073HFR01,
+17MB002HPT01,
+DK API-H 00089817,
+ES/074HV/17,1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.8  Other solid dosage forms 1.2.1.9  Pressurised preparations 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.8  Other solid dosage forms 1.5.1.9  Pressurised preparations 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+17MPP028HPT01,
+UK GMP 22732 Insp GMP 22732/3578243-0001,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.3  Chemical/Physical
+DE_HE_01_GMP_2017_1037,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.4  Small volume liquids
+MED10/2017/001,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.6  Other: Aseptic Cephalosporin powders for the preparation of parenteral solutions(en) 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.8  Other solid dosage forms: sterile powders(en) 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+MED10/2020/001,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.6  Other: Aseptic Cephalosporin powders for the preparation of parenteral solutions(en) 1.5  Packaging 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+DE_BY_04_GMP_2018_0011,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.17  Other: Nasal solution (with hormonal activity)(en) 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK GMP 20657 Insp GMP 20657/873857-0004,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.8  Other solid dosage forms 1.2.1.13  Tablets 1.2.1.17  Other: coated beads, powders(en) 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK GMP 4737 Insp GMP 4737/15674-0011,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.2  Lyophilisates 1.1.1.4  Small volume liquids 1.1.2  Terminally Sterilised (processing operations for the following dosage forms) 1.1.2.3  Small volume liquids 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.5  Biotechnology products 1.4  Other products or manufacturing activity 1.4.2  Sterilisation of active substance/ excipients/ finished product 1.4.2.1  Filtration 1.4.2.3  Moist heat 1.5  Packaging 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical 1.6.4  Biological
+179/5,2  IMPORTATION OF MEDICINAL PRODUCTS 2.2  Batch certification of imported medicinal products 2.2.1  Sterile products 2.2.1.1  Aseptically prepared 2.2.1.2  Terminally sterilised 2.2.2  Non-sterile products
+FT017/001/2017,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.2  Terminally Sterilised (processing operations for the following dosage forms) 1.1.2.3  Small volume liquids 1.5  Packaging 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.3  Chemical/Physical
+17MPP006HPT01,
+DE_NW_03_GMP_2017_1012,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.13  Tablets 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+HPF/PT/010/2017,1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.6  Liquids for internal use 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.6  Liquids for internal use 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+UP/I-530-10/17-03/04; 381-10-05/244-17-08,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+IT/E/GMP/3/2020,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.8  Other solid dosage forms: lozenges(en) 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.8  Other solid dosage forms: lozenges(en) 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+IT/E/GMP/API/09/2017,
+UK GMP 14361 Insp GMP/IMP 14361/5000-0025,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical 2  IMPORTATION OF MEDICINAL PRODUCTS 2.1  Quality control testing of imported medicinal products 2.1.2  Microbiological: non-sterility 2.1.3  Chemical/Physical
+UK API 39359 Insp GMP 39359/2460457-0002,
+IT/NCR/API/1/2017 rev.1,1 NON-COMPLIANT MANUFACTURING OPERATIONS 1.4  Other products or manufacturing activity 1.4.1  Manufacture of 1.4.1.4  Other: active substances(en)
+ES/065HV/17*,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.6  Liquids for internal use 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.6  Liquids for internal use 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+ES/065HV/17**,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.6  Liquids for internal use 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.6  Liquids for internal use 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UP/I-530-10/17-03/02; 381-10-05/151-17-19,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell Special Requirements               : 1  B-lactam Antibiotics 1.2.1.13  Tablets Special Requirements               : 1  B-lactam Antibiotics 1.2.1.17  Other: Powder for oral suspensions and powder for oral solution(en) Special Requirements               : 1  B-lactam Antibiotics 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell Special Requirements               : 1  B-lactam Antibiotics 1.5.1.13  Tablets Special Requirements               : 1  B-lactam Antibiotics 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK GMP 35210 Insp GMP 35210/978451-0004,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.1  Microbiological: sterility
+17MPP014HPT01,
+17MPP022HPT01,
+UK GMP 21635 Insp GMP 30937/340471-0007,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.8  Other solid dosage forms 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+UK GMP 41117 Insp GMP 41117/5965222-0002,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical 1.6.4  Biological
+UK GMP 41117 Insp GMP 41117/5965261-0002,1  MANUFACTURING OPERATIONS 1.4  Other products or manufacturing activity 1.4.1  Manufacture of 1.4.1.4  Other: Low bioburden API fermentation from Mammalian cells.(en)
+UK GMP 41117 Insp GMP 41117/5965283-0002,
+17MPP013HPT01,
+17MPP021HPT01,
+BE/GMP/2017/025,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+HPF/PT/008/2017,"1  MANUFACTURING OPERATIONS 1.2  Non-sterile products 1.2.1  Non-sterile products (processing operations for the following dosage forms) 1.2.1.1  Capsules, hard shell 1.2.1.13  Tablets 1.5  Packaging 1.5.1  Primary Packaging 1.5.1.1  Capsules, hard shell 1.5.1.13  Tablets 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical"
+IT/E/GMP/7/2017,1  MANUFACTURING OPERATIONS 1.6  Quality control testing 1.6.3  Chemical/Physical 1.6.4  Biological
+IT/E/GMP/API/07/2017,
+UK MIA(IMP) 11387 Insp GMP/IMP 11387/6280106-0002,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.1  Large volume liquids 1.1.1.4  Small volume liquids 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.3  Cell therapy products 1.3.1.4  Gene therapy products 1.3.1.5  Biotechnology products 1.3.1.8  Other: Autologous or allogeneic cell therapies for intravenous or solid tissue(en) 1.4  Other products or manufacturing activity 1.4.2  Sterilisation of active substance/ excipients/ finished product 1.4.2.1  Filtration 1.6  Quality control testing 1.6.3  Chemical/Physical 1.6.4  Biological
+17IPP002,1 NON-COMPLIANT MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.4  Small volume liquids 1.5  Packaging 1.5.2  Secondary packaging 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+DK H 00085217,1  MANUFACTURING OPERATIONS 1.1  Sterile products 1.1.1  Aseptically prepared (processing operations for the following dosage forms) 1.1.1.4  Small volume liquids 1.3  Biological medicinal products (list of product types) 1.3.1  Biological medicinal products (list of product types) 1.3.1.5  Biotechnology products 1.6  Quality control testing 1.6.1  Microbiological: sterility 1.6.2  Microbiological: non-sterility 1.6.3  Chemical/Physical
+FT054/S1/MH/001/2017,
+GIF-IW-400/0438_01_01/04/3-1/17,
+GIF-IW-400/0438_01_01/04/3/17,
+NL/H 17/1013619a,
+UK GMP 19826 Insp GMP 19826/39398-0006,
+2020/HPF/PT/007,
+GIF-IW-400/0356_01_01/04/1/17,
+HPF/PT/006/2017,
+ALG 01/2017,
+ALG 01/2020,
+022/2017/RO,
+IT/GMP/E/10-2017,
+UK MIA 225 Insp GMP 225/6822149-0003,
+482618-0001,
+DE_BE_01_GMP_2017_0009,
+UK MIA 10414 Insp GMP 10414/6909614-0005,
+UK GMP 46800 Insp GMP 46800/15377607-0004,
+BE/GMP/2017/015,
+DE_HH_01_GMP_2017_1038,
+UK GMP 44406 Insp GMP 44406/11951387-0003,
+16/07558-14,
+NL/H 17/1013617,
+UK GMP 13696 Insp GMP 13696/4045155-0004,
+17MPP004HPT01,
+UK GMP 14956 Insp GMP 20303/13334-0005,
+482373-0004,
+DE_BY_04_GMP_2018_0016,
+UK GMP 19196 Insp GMP 23092/1342649-0003,
+UK GMP 19196 Insp GMP 23092/1470275-0004,
+UK GMP 19196 Insp GMP 23092/261916-0006,
+UK GMP 20788 Insp GMP 20788/13917-0005,
+481703-0012,
+DE_BE_01_GMP_2017_0006,
+17MPP003HPT02,
+DE_RP_01_GMP_2017_0005,
+OGYÉI/12211-9/2016,
+DE_BE_01_GMP_2017_0005,
+UK GMP 17742 Insp GMP 17742/9885-0010,
+UK GMP 17742 Insp GMP 17742/9885-0010 [H],
+UK MIA(IMP) 44696 Insp IMP 44696/12417421-0004,
+UK API 20003 Insp GMP 20003/14223367-0001,
+UK API 20003 Insp GMP 20003/16179217-0001 [H],
+UK API 20003 Insp GMP 20003/16179217-0001 [V],
+UK GMP 17043 Insp GMP 17043/5906815-0003,
+UK GMP 17742 Insp GMP 17742/15432097-0001,
+UK GMP 17742 Insp GMP 17742/15432097-0004,
+014/2017/RO,
+2020/HPF/PT/005,
+UK API 45676 Insp GMP 45676/13552261-0002,
+UP/I-530-10/16-03/14; 381-10-05/244-17-11,
+NL/H 16/1012621,
+UK MIA 8215 Insp GMP/GDP 8215/3576395-0006,
+UK API 15298 Insp GMP 15298/358411-0001,
+16MPP079HPT01,
+HPF/PT/005/2017,
+013/2017/RO,
+16MPP087HPT02,
+FT021/SA/001/2017,
+UK GMP 20807 Insp GMP 20807/22382-0008,
+UK MIA(IMP) 29581 Insp GMP/GDP/IMP 29581/297142-0012,
+16MPP086VPT01,
+DE_SH_01_GMP_2017_1042,
+1919/9-1-2017,
+482362-0002,
+DE_HE_01_GMP_2017_0047,
+OGYÉI/53659-5/2016,
+UK MIA 43552 Insp GMP 43552/13395715-0002,
+OGYÉI/53653-5/2016,
+UK GMP 13607 Insp GMP 13607/4128-0007,
+033/2017/RO,
+ES/055HV/17,
+IT/E/GMP/API/04/2017,
+2017-030,
+UK MIA(IMP) 37349 Insp GMP/GDP/IMP 37349/15287528-0003,
+UK GMP 23083 Insp GMP 23083/1880916-0002,
+UK GMP 36628 Insp GMP 36628/1645244-0006 [H],
+UK GMP 36628 Insp GMP 36628/1645244-0006 [V],
+2019/HPF/PT/007,
+409-7/2016-6,
+482393-0002,
+DK H 00084417,
+IT/GMP/E/4/2017,
+021/2017/RO,
+DK V 00084617,
+UK MIA 36687 Insp GMP/GDP 36687/1752977-0005,
+DE_NW_01_GMP_2017_1016,
+ES/009HV/17,
+UK GMP 35774 Insp GMP 35774/10895317-0003 [H],
+UK GMP 35774 Insp GMP 35774/10895317-0003 [V],
+UK GMP 35774 Insp GMP 35774/13104735-0002 [H],
+UK GMP 35774 Insp GMP 35774/13104735-0002 [V],
+UK GMP 35774 Insp GMP 35774/9055077-0003 [H],
+UK GMP 35774 Insp GMP 35774/9055077-0003 [V],
+042/2017/RO,
+FT023/MH/001/2017,
+IT/GMP/E/2-2017,
+IT/GMP/E/14-2016,
+DE_HE_01_GMP_2018_0083,
+UK MIA 33336 Insp GMP 16409/8018-0009,
+UK MIA 1811 Insp GMP/IMP 1811/21989-0031,
+UK GMP 11213 Insp GMP 11213/5707921-0005,
+15/16775-10,
+ES/090HV/17,
+IT/GMP/E/3-2017,
+BE/GMP/2016/073,
+DE_BE_01_GMP_2016_0055,
+UK MIA 21710 Insp GMP 21710/89489-0009,
+DE_HE_01_GMP_2017_1006,
+DE_BE_01_GMP_2016_0054,
+ES/032HV/17,
+482373-0003,
+DE_BE_01_GMP_2016_0053,
+UK GMP 46993 Insp GMP 46993/15601183-0001,
+INS-482512-0001-001,
+UK MIA 13079 Insp GMP/GDP/IMP 13079/3598-0023,
+UK MIA(IMP) 13079 Insp GMP/GDP/IMP 13079/3598-0023,
+UK API 116 Insp GMP 116/1966883-0003,
+UK GMP 20656 Insp GMP 20656/430174-0010,
